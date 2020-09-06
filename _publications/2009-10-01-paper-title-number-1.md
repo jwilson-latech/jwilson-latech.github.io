@@ -12,4 +12,4 @@ Explicit absorbing boundary conditions (ABCs) are presented for the recently dev
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: 'J. Wilson. &quot;Generalized Finite-Difference Time-Domain method with absorbing boundary conditions for solving the nonlinear Schrödinger equation on a GPU.&quot; <i>Computer Physics Communications</i>. 235. 279-292. (2019).'
