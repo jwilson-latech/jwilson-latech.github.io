@@ -1,20 +1,25 @@
 ---
-title: "Teaching experience 1"
+title: "Instructor"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Louisiana Tech University, Department of Mathematics and Statisitics"
+date: 2019-09-01
+location: "Ruston, LA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Academic Year 2019-2020
 
-Heading 1
+Fall Quarter 
 ======
+* Math 101: College Algebra (3 sections)
+* Trigonometry 
 
-Heading 2
+Winter Quarter 
 ======
+* Math 101: College Algebra (3 sections)
 
-Heading 3
+Spring Quarter 
 ======
+* Math 101: College Algebra (2 sections)
+* Trigonometry (1 section)

@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc in Mathematics and Physics, Louisiana Tech University, 2014
+* MSc in Mathematics, Louisiana Tech University, 2019
+* MSc in Physics, Louisiana Tech University, 2020 (expected)
+* PhD in Computational Analysis and Modeling, Louisiana Tech University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Sept 2020 - present: Adjunct Lecturer (Mathematics)
+  * Louisiana Tech University
+  * Supervisor: Dr. Katie Evans
+
+* Sept 2019 - June 2020: Adjunct Instructor (Mathematics)
+  * Louisiana Tech University
+  * Supervisor: Dr. Katie Evans
+
+* Sept 2015 - Aug 2019: Louisiana Board of Regents Graduate Research Fellow
+  * Louisiana TEch University
+  * Supervisor: Dr. Weizhong Dai
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* FDTD Method
+* Fractional Calculus
+* Coding
+  * Python
+  * Mathematics
+* Teaching
+
 
 Publications
 ======
