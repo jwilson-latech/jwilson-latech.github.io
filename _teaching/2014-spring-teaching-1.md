@@ -13,7 +13,6 @@ Academic Year 2019-2020
 Fall Quarter 
 ======
 * Math 101: College Algebra (3 sections)
-* Trigonometry 
 
 Winter Quarter 
 ======
