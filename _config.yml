@@ -84,10 +84,10 @@ author:
   avatar           : "profile.png"
   bio              : "PhD in Computational Analysis and Modeling"
   location         : "Ruston, LA"
-  employer         :
+  employer         : "Louisiana Tech University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "jwilson@latech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/jwilsonn14"
   uri              :
   bitbucket        :
